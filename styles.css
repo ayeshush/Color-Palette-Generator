@@ -397,6 +397,6 @@ footer {
     }
 
     footer {
-        font-size: 10px;
+        display: none;
     }
 }
